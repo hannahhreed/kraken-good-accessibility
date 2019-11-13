@@ -66,6 +66,7 @@ html {
 
   .inset-img {
     display: none;
+    border-color: #000;
   }
 
   .chapter-ends {
